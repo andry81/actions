@@ -1,3 +1,6 @@
+2024.05.26:
+* changed: .github/workflows: reduced GitHub pipeline schedule periods to reduce GitHub limit rate consumption
+
 2024.01.07:
 * changed: .github/workflows: workflows moved from `andry81/andry81` repository
 

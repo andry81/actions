@@ -1,11 +1,11 @@
 # Tutorial to use with: https://github.com/andry81-devops/github-accum-stats
 #
 
-name: "bittools: GitHub views counter for 14 days at every 8 hours and views accumulator"
+name: "bittools: GitHub views counter for 14 days at every 24 hours and views accumulator"
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */24 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

@@ -1,11 +1,11 @@
 # Tutorial to use with: https://github.com/andry81-devops/github-accum-stats
 #
 
-name: "bittools: GitHub clones counter for 14 days at every 8 hours and clones accumulator"
+name: "bittools: GitHub clones counter for 14 days at every 24 hours and clones accumulator"
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */24 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

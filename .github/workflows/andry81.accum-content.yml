@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 jobs:
-  accum-content-cache:
+  accum-content:
     runs-on: ubuntu-latest
 
     steps:

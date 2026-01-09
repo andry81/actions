@@ -1,3 +1,6 @@
+2025.01.09:
+* fixed: .github/workflows: missed change
+
 2024.05.26:
 * changed: .github/workflows: reduced GitHub pipeline schedule periods to reduce GitHub limit rate consumption
 

@@ -1,3 +1,6 @@
+2026.01.15:
+* new: .github/workflows: `enable_yaml_print_all` action input variable
+
 2025.01.09:
 * fixed: .github/workflows: missed change
 
